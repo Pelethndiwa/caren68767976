@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caren68767976
+- 👋 Hi, I’m @pelethndiwa9570254
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...a project in java
